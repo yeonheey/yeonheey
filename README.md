@@ -1,9 +1,13 @@
-## Hi, there 👋
-🌱 I'm studying and interested in iOS and Swift.
+#### Hi, there 👋
+🌱 I'm currently learning and interested in iOS and Swift.  
 
-## 🛠 Skills 🛠
+📫 How to reach me: click [here!](mailto:anny7867@naver.com)
 
-##### Languages and platforms
+<br/><br/>
+
+#### 🛠 Skills 🛠
+
+##### Languages & Platforms
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white) ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ##### Tools
