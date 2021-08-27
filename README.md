@@ -1,7 +1,7 @@
 ### Hi, there 👋
 🌱 I'm currently learning and interested in iOS and Swift.  
 
-📫 How to reach me: click [here!](mailto:anny7867@naver.com)
+📫 How to reach me: click [here!](mailto:yeonheey0922@gmail.com)
 
 <br/><br/><br/>
 
