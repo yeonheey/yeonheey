@@ -1,5 +1,5 @@
 ### Hi, there 👋
-🌱 I'm currently learning and interested in iOS and Swift.  
+🌱 I'm currently learning and interested in iOS and Swift. I'm trying to 'commit' what I study every day!
 
 📫 How to reach me: click [here!](mailto:yeonheey0922@gmail.com)
 
