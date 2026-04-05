@@ -7,7 +7,7 @@ macOS 시스템 데몬부터 SwiftUI 사용자 인터페이스까지, Apple 플�
 <br/>
 
 📫 How to reach me: click [here!](mailto:yeonheey0922@gmail.com) <br/>
-🔗 Linked-In: [링크드인-정연희 프로필 바로 가기](www.linkedin.com/in/연희-정-54851b267) </br>
+🔗 Linked-In: [링크드인-정연희 프로필 바로 가기](https://www.linkedin.com/in/yeonhee-jeong-54851b267) </br>
 <br/>
 
 ### 🛠 Skills 🛠
